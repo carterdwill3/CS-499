@@ -82,6 +82,6 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 **🎓 SNHU Computer Science Capstone Project**  
 *Find the links to my GitHub and LinkedIn profiles below :)*
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-carterdwill3-black?style=flat&logo=github)](https://github.com/carterdwill3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carter_Williams-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carter-williams-1ab6b61a6/)
+[[![GitHub Profile](https://img.shields.io/badge/GitHub-carterdwill3-black?style=flat&logo=github)](https://github.com/carterdwill3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carter_Williams-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carter-williams-1ab6b61a6/)](https://www.linkedin.com/in/carter-williams-1ab6b61a6/)
 </div>
