@@ -1,3 +1,4 @@
+_PLANS FOR ENHANCEMENT TWO_
 -	Implementing a binary search tree for efficient contact searching by ID
 -	Creating a data structure for auto-complete functionality on names
 -	Adding QuickSort and MergeSort algorithms for contact sorting by multiple standards
