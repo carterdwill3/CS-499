@@ -30,4 +30,4 @@ capabilities for contact insights._
 
 -
 Original CS-320 Project File:
-[![REPO](https://img.shields.io/badge/REPO-CS--320-purple?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
+- [![REPO](https://img.shields.io/badge/REPO-CS--320-purple?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
