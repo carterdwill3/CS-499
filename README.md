@@ -65,7 +65,7 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 <div align="center">
 
-[![Code Review](https://img.shields.io/badge/🎥_WATCH-CODE_REVIEW-red?style=for-the-badge&logo=youtube)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo5ZWgBOnXOLukuQMObAAvT6TwRMw)
+[![Code Review](https://img.shields.io/badge/🎥_WATCH-CODE_REVIEW-red?style=for-the-badge)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo5ZWgBOnXOLukuQMObAAvT6TwRMw)
 
 [![Enhancement 1](https://img.shields.io/badge/🔧_SOFTWARE-DESIGN_ENGINEERING-brightgreen?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementOne)
 [![Enhancement 2](https://img.shields.io/badge/⚙️_ALGORITHMS-DATA_STRUCTURES-orange?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementTwo)
@@ -75,11 +75,10 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 ---
 
-<div align="center">
-
 **🎓 SNHU Computer Science Capstone Project**  
 *Find the links to my GitHub and LinkedIn profiles below :)*
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-carterdwill3-black?style=flat&logo=github)](https://github.com/carterdwill3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carter_Williams-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carter-williams-1ab6b61a6/)
+
 </div>
