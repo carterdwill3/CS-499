@@ -80,7 +80,7 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 <div align="center">
 
 **🎓 SNHU Computer Science Capstone Project**  
-*Find the link for my revise project repository below*
+*Find the link for my revised Capstone project repository below*
 
 [![GitHub](https://img.shields.io/badge/GitHub-carterdwill3-black?style=flat&logo=github)](https://github.com/carterdwill3)
 
