@@ -59,8 +59,6 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 [![REPO](https://img.shields.io/badge/REPO-CS--320-lightgrey?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
 
-</div>
-
 ---
 
 ## 🎯 Portfolio Navigation
