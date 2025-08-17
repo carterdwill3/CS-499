@@ -14,7 +14,7 @@ This project started as a milestone assignment I finished last year in my **CS-3
 ## 🛠️ ENHANCEMENT CONCEPTS
 
 ### 🔧 **ENHANCEMENT ONE CONCEPT**
-[![Software Design](https://img.shields.io/badge/ENHANCEMENT-SOFTWARE%20DESIGN%20%26%20ENGINEERING-brightgreen?style=for-the-badge&logo=code)](./EnhancementOne)
+[![Software Design](https://img.shields.io/badge/ENHANCEMENT-SOFTWARE%20DESIGN%20%26%20ENGINEERING-brightgreen?style=for-the-badge&logo=code)](https://github.com/carterdwill3/CS-499/tree/EnhancementOne)
 
 My enhancement plan transforms the basic contact service into a **REST API with database persistence**. This involves:
 
@@ -27,7 +27,7 @@ My enhancement plan transforms the basic contact service into a **REST API with 
 ---
 
 ### ⚙️ **ENHANCEMENT TWO CONCEPT**
-[![Algorithms](https://img.shields.io/badge/ENHANCEMENT-ALGORITHMS%20%26%20DATA%20STRUCTURES-orange?style=for-the-badge&logo=algorithm)](./EnhancementTwo)
+[![Algorithms](https://img.shields.io/badge/ENHANCEMENT-ALGORITHMS%20%26%20DATA%20STRUCTURES-orange?style=for-the-badge&logo=algorithm)](https://github.com/carterdwill3/CS-499/tree/EnhancementTwo)
 
 My algorithms and data structure-like enhancement plan will also transform the basic contact storage into a **higher-level data management system** with multiple advanced data structures and efficient algorithms. 
 
@@ -42,7 +42,7 @@ My algorithms and data structure-like enhancement plan will also transform the b
 ---
 
 ### 🗄️ **ENHANCEMENT THREE CONCEPT**
-[![Database](https://img.shields.io/badge/ENHANCEMENT-DATABASE%20DESIGN-purple?style=for-the-badge&logo=database)](./EnhancementThree)
+[![Database](https://img.shields.io/badge/ENHANCEMENT-DATABASE%20DESIGN-purple?style=for-the-badge&logo=database)](https://github.com/carterdwill3/CS-499/tree/EnhancementThree)
 
 My database enhancement plan turns the in-memory contact storage into a **comprehensive database solution** with MySQL integration, advanced querying capabilities, and data analytics features.
 
