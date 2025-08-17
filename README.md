@@ -1,9 +1,5 @@
----
-layout: default
----
-
 # 🎓 CS-499 ePortfolio
-### Carter Williams | Computer Science Capstone
+### Carter Williams | SNHU Computer Science Capstone
 
 ---
 
