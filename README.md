@@ -1,3 +1,4 @@
+_PLANS FOR ENHANCEMENT THREE_
 -	Design database plan with contacts, addresses, and contact history tables
 -	Create MySQL database with foreign key relationships
 -	Implement ConnectionPool for efficient database connections
