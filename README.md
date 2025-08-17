@@ -59,14 +59,11 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 ---
 
-## 📁 **Original CS-320 Project Files**
+###### 📁 _**Original CS-320 Project**_
 
 <div align="center">
 
-[![Original Project](https://img.shields.io/badge/📂%20VIEW-ORIGINAL%20CS--320%20PROJECT-blue?style=for-the-badge&logo=java)](./original-project)
-[![Contact Class](https://img.shields.io/badge/📄%20VIEW-Contact.java-red?style=flat-square&logo=java)](#)
-[![Service Class](https://img.shields.io/badge/📄%20VIEW-ContactService.java-red?style=flat-square&logo=java)](#)
-[![Test Files](https://img.shields.io/badge/📄%20VIEW-Test%20Classes-green?style=flat-square&logo=junit5)](#)
+- [![REPO](https://img.shields.io/badge/REPO-CS--320-purple?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
 
 </div>
 
@@ -89,11 +86,8 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 <div align="center">
 
 **🎓 SNHU Computer Science Capstone Project**  
-*Demonstrating growth from basic programming to advanced software architecture*
+*Find the link for my revise project repository below*
 
 [![GitHub](https://img.shields.io/badge/GitHub-carterdwill3-black?style=flat&logo=github)](https://github.com/carterdwill3)
 
 </div>
-
-###### _Original CS-320 Project File_
-- [![REPO](https://img.shields.io/badge/REPO-CS--320-purple?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
