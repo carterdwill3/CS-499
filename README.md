@@ -5,3 +5,5 @@
 -	Configure spring boot application within the embedded server
 -	Add better input validation and error handling
 -	And implement basic authentication for API security
+
+[![Return to Main Portfolio](https://img.shields.io/badge/🏠%20RETURN-Main%20Portfolio-blue?style=for-the-badge&logo=home)](https://github.com/carterdwill3/CS-499)
