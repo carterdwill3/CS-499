@@ -10,15 +10,15 @@ validation techniques.
 
 My enhancement plan transforms the basic contact service into a REST API with database persistence. This involves replacing the hash map with database storage,
 implementing a repository pattern for data access, and creating REST endpoints for contact operations.
-_ This enhancement demonstrates the best methods of architecture while maintaining important core functionality.
+_This enhancement demonstrates the best methods of architecture while maintaining important core functionality._
 
 -
 **_ENHANCEMENT TWO CONCEPT_**
 
 My algorithms and data structure-like enhancement plan will also transform the basic contact storage into a higher-level data management system with multiple
 advanced data structures and efficient algorithms.
-_ This includes: implementing custom search algorithms, sorting mechanisms, and optimized data structures; this will give various contact management operations
-  that improve the code’s performance.
+_This includes: implementing custom search algorithms, sorting mechanisms, and optimized data structures; this will give various contact management operations
+that improve the code’s performance._
 
 -
 **_ENHANCEMENT THREE CONCEPT_**
@@ -26,4 +26,4 @@ _ This includes: implementing custom search algorithms, sorting mechanisms, and 
 My database enhancement plan turns the in-memory contact storage into a comprehensive database solution with MySQL integration, advanced querying capabilities,
 and data analytics features.
 _This includes: implementing relational database design with multiple related tables, creating stored procedures for complex operations, and adding data mining
-  capabilities for contact insights.
+capabilities for contact insights._
