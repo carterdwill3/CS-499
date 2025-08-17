@@ -1,5 +1,5 @@
 # 🎓 CS-499 ePortfolio
-### Carter Williams | SNHU Computer Science Capstone
+### Carter Williams | Computer Science Capstone
 
 ---
 
@@ -18,6 +18,7 @@ This project started as a milestone assignment I finished last year in my **CS-3
 
 My enhancement plan transforms the basic contact service into a **REST API with database persistence**. This involves:
 
+**Key Features:**
 - ⚡ Replacing the hash map with database storage
 - 🏗️ Implementing a repository pattern for data access  
 - 🌐 Creating REST endpoints for contact operations
@@ -46,7 +47,7 @@ My algorithms and data structure-like enhancement plan will also transform the b
 
 My database enhancement plan turns the in-memory contact storage into a **comprehensive database solution** with MySQL integration, advanced querying capabilities, and data analytics features.
 
-**Implementation Includes:**
+**Key Features:**
 - 🗃️ Implementing relational database design with multiple related tables
 - ⚙️ Creating stored procedures for complex operations
 - 📊 Adding data mining capabilities for contact insights
@@ -55,7 +56,7 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 ---
 
-###### 📁 _**Original CS-320 Project**_
+## 📁 **Original CS-320 Project**
 
 [![REPO](https://img.shields.io/badge/REPO-CS--320-lightgrey?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
 
@@ -63,24 +64,18 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 ## 🎯 Portfolio Navigation
 
-<div align="center">
+[![Code Review](https://img.shields.io/badge/🎥%20WATCH-CODE%20REVIEW-red?style=for-the-badge)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo5ZWgBOnXOLukuQMObAAvT6TwRMw)
 
-[![Code Review](https://img.shields.io/badge/🎥_WATCH-CODE_REVIEW-red?style=for-the-badge)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo5ZWgBOnXOLukuQMObAAvT6TwRMw)
+[![Enhancement 1](https://img.shields.io/badge/🔧%20SOFTWARE-DESIGN%20ENGINEERING-brightgreen?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementOne)
 
-[![Enhancement 1](https://img.shields.io/badge/🔧_SOFTWARE-DESIGN_ENGINEERING-brightgreen?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementOne)
-[![Enhancement 2](https://img.shields.io/badge/⚙️_ALGORITHMS-DATA_STRUCTURES-orange?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementTwo)
-[![Enhancement 3](https://img.shields.io/badge/🗄️_DATABASE-DESIGN_INTEGRATION-purple?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementThree)
+[![Enhancement 2](https://img.shields.io/badge/⚙️%20ALGORITHMS-DATA%20STRUCTURES-orange?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementTwo)
 
-</div>
+[![Enhancement 3](https://img.shields.io/badge/🗄️%20DATABASE-DESIGN%20INTEGRATION-purple?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementThree)
 
 ---
-
-<div align="center">
 
 **🎓 SNHU Computer Science Capstone Project**  
 *Find the links to my GitHub and LinkedIn profiles below :)*
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-carterdwill3-black?style=flat&logo=github)](https://github.com/carterdwill3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carter_Williams-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carter-williams-1ab6b61a6/)
-
-</div>
