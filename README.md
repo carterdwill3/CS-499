@@ -29,5 +29,5 @@ _This includes: implementing relational database design with multiple related ta
 capabilities for contact insights._
 
 -
-Original CS-320 Project File:
+###### _Original CS-320 Project File_
 - [![REPO](https://img.shields.io/badge/REPO-CS--320-purple?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
