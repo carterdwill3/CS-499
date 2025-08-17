@@ -1,4 +1,4 @@
-## _PLANS FOR ENHANCEMENT ONE_
+## _PLANS FOR ENHANCEMENT ONE:_
 -	Create ContactRepository with save, findById, findAll, and delete methods
 -	Implement ContactController with GET, POST, PUT, DELETE endpoints
 -	Add JSON serialization for API responses
