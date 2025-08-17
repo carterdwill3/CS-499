@@ -67,16 +67,15 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 <div align="center">
 
-[![Code Review](https://img.shields.io/badge/🎥%20WATCH-CODE%20REVIEW-red?style=for-the-badge&logo=youtube)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo57WgB0nXOLukuOM0bAAvT6TwRWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=0uqXck)
+[![Code Review](https://img.shields.io/badge/🎥%20WATCH-CODE%20REVIEW-red?style=for-the-badge&logo=youtube)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo5ZWgBOnXOLukuQMObAAvT6TwRMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=OuqXcK)
 
-[![Enhancement 1](https://img.shields.io/badge/🔧%20SOFTWARE-DESIGN%20%26%20ENGINEERING-brightgreen?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementOne)
+[![Enhancement 1](https://img.shields.io/badge/🔧%20SOFTWARE-DESIGN%20ENGINEERING-brightgreen?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementOne)
 
 [![Enhancement 2](https://img.shields.io/badge/⚙️%20ALGORITHMS-DATA%20STRUCTURES-orange?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementTwo)
 
-[![Enhancement 3](https://img.shields.io/badge/🗄️%20DATABASE-DESIGN%20%26%20INTEGRATION-purple?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementThree)
+[![Enhancement 3](https://img.shields.io/badge/🗄️%20DATABASE-DESIGN%20INTEGRATION-purple?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementThree)
 
 </div>
-
 ---
 
 <div align="center">
