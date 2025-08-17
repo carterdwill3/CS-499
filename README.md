@@ -1,4 +1,4 @@
-**PROJECT OVERVIEW**
+# **PROJECT OVERVIEW**
 
 This project started as a milestone assignment I finished last year in my CS-320 course. I made a simple contact management system in Java. The original solution had a Contact class with methods for validation,
 a ContactService class that uses a hash map for in-memory storage to maintain contacts, and test classes (ContactTest and ContactServiceTest) to make sure everything works and handles the errors.
