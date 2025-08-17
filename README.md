@@ -70,9 +70,7 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 [![Code Review](https://img.shields.io/badge/🎥_WATCH-CODE_REVIEW-red?style=for-the-badge&logo=youtube)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo5ZWgBOnXOLukuQMObAAvT6TwRMw)
 
 [![Enhancement 1](https://img.shields.io/badge/🔧_SOFTWARE-DESIGN_ENGINEERING-brightgreen?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementOne)
-
 [![Enhancement 2](https://img.shields.io/badge/⚙️_ALGORITHMS-DATA_STRUCTURES-orange?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementTwo)
-
 [![Enhancement 3](https://img.shields.io/badge/🗄️_DATABASE-DESIGN_INTEGRATION-purple?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementThree)
 
 </div>
