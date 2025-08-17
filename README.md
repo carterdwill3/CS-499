@@ -94,5 +94,6 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 [![GitHub](https://img.shields.io/badge/GitHub-carterdwill3-black?style=flat&logo=github)](https://github.com/carterdwill3)
 
 </div>
+
 ###### _Original CS-320 Project File_
 - [![REPO](https://img.shields.io/badge/REPO-CS--320-purple?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
