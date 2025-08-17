@@ -1,0 +1,11 @@
+title: CS-499 ePortfolio
+description: Capstone Portfolio - Carter Williams
+theme: jekyll-theme-slate
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+relative_links:
+  enabled: true
+  collections: true
