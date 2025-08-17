@@ -75,6 +75,10 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 ---
 
+## 📞 Contact
+
+<div align="center">
+
 **🎓 SNHU Computer Science Capstone Project**  
 *Find the links to my GitHub and LinkedIn profiles below :)*
 
