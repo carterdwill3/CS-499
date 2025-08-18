@@ -57,8 +57,9 @@ The technical artifacts that follow show the details of what I've built and lear
 
 ---
 
-###### 📝 **Capstone Project Code Review**
+###### 📝 **Capstone Project Code Review (audio only)**
 [![Code Review](https://img.shields.io/badge/🎥%20WATCH-CODE%20REVIEW-red?style=for-the-badge)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo57WgB0nXOLukuOM0bAAvT6TwRWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rY7VjI)
+###### File always corrupted upon ending the video - occured on all recorded code review attempts. Audio file is all that could always be recovered.
 
 ---
 
