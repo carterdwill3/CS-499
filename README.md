@@ -5,44 +5,55 @@
 
 ## 📝 Professional Self-Assessment
 
-### My Journey Through Computer Science
+### My Journey and What I've Learned
 
-Completing the Computer Science program at SNHU has been one of those experiences that really changes how you think about problem-solving and technology. When I started nearly three years ago as a transfer student, I had some programming experience, but I didn't fully grasp how all the pieces of software development fit together. Now, looking back at my work and putting together this ePortfolio, I can see how much I've grown both technically and professionally.
+Finishing the Computer Science program at SNHU has been quite a ride. When I transferred in three years ago, I could write basic code but honestly had no idea how all the pieces of software development actually fit together. Now, putting together this portfolio, I can see how much my thinking has changed—not just about programming, but about building systems that actually work in the real world.
 
-The biggest lesson I learned? Structure matters—a lot. Early on, I'd write code that worked but was messy and hard to maintain. I learned the hard way that small errors in how you organize your code will have you questioning your sanity when trying to debug later. Breaking down complex problems into smaller, manageable pieces became second nature, and it's a skill that applies far beyond just coding.
+The biggest thing I've discovered about myself is that I really enjoy the architectural side of development. I like figuring out how to break complex problems down into manageable pieces and then building something that other people can actually understand and maintain. Combined with my background in industrial automation, this gives me a perspective that I think sets me apart - I understand both the software side and how it connects to physical systems.
 
-### What I've Learned and How I Apply It
+### What the Program Really Taught Me
 
-**Building Better Software**  
-Working on my contact management enhancement really opened my eyes to what good software architecture looks like. Taking a basic Java application and transforming it into a full REST API with database integration taught me about separation of concerns, proper error handling, and security considerations. It's one thing to make code work; it's another to make it maintainable and secure.
+**Working with Teams**  
+Between my coursework and my day job as a controls specialist, I've learned that good software isn't built in isolation. The real learning came from my daily work coordinating with maintenance techs, engineers, production staff, etc. Everyone sees problems differently, and that's actually valuable. I've gotten pretty good at being the translator between the technical folks and management - explaining why we need to refactor something in terms of reduced downtime costs, for example.
 
-**Thinking Algorithmically**  
-I'll be honest, algorithms and data structures used to intimidate me. But working through performance optimizations for my contact system changed that perspective. Replacing simple linear searches with binary search trees and implementing efficient sorting algorithms showed me how the right data structure can make a huge difference in performance.
+**Talking to Stakeholders**  
+This was probably my biggest growth area. Early on, I'd get excited about technical details and lose my audience completely. My current role forced me to get better at this fast - when you're presenting an automation upgrade to plant management, they don't care about your elegant algorithm; they care about ROI and reliability. Courses like CS-340 helped with documentation skills, but the best improvements came from practice. I've learned to lead with business value and support it with just enough technical detail to build confidence.
 
-**Database Design and Security**  
-Database work turned out to be more interesting than I expected. Moving from simple hash maps to a properly normalized MySQL database with foreign key relationships taught me to think about data integrity and consistency. Implementing prepared statements to prevent SQL injection attacks made security feel less abstract and more like a practical necessity.
+**Data Structures and Algorithms**  
+When I started, I feel I was the type who just wanted code to work and didn't think much about efficiency. But working through algorithmic analysis changed how I approach problems. Now, especially in my industrial work where processing delays can shut down production lines, I think about performance first. It's become second nature to consider what data structure makes sense before I start coding.
 
-### Real-World Application
+**Software Engineering and Databases**  
+The progression from "make it work" to "make it work well" has been huge for me. CS-320 introduced systematic testing, which was eye-opening - I realized how much time I'd been wasting on debugging that proper testing could have prevented. Database work through DAD-220 and the course's projects taught me that data organization is just as important as code organization. In automation systems, data integrity isn't just nice to have; it's critical for safety and operations.
 
-My day job as a controls specialist gives me a unique perspective on how software development connects to physical systems. Working with PLCs and HMIs has taught me that good code isn't just about elegant algorithms—it's about reliability, maintainability, and clear communication with team members who might not have the same technical background.
+**Security Thinking**  
+Security-focused coursework made me realize that security can't be something that's "bolted on later". Working with industrial control systems reinforced this - operational technology security is becoming crucial as more systems connect to networks. I now start every project by thinking about what could go wrong and how to prevent it. It's become part of my design process, rather than an afterthought.
 
-This experience has shaped my career goals around automation and system integration. I want to work in spaces where traditional manufacturing meets modern software development, particularly in Industry 4.0 applications where data analytics can optimize production processes.
+### How My Portfolio Tells a Story
 
-### What This Portfolio Demonstrates
+Instead of showing three different projects, I decided to take one projec - my CS-320 contact management system - and enhance it across all three required areas. This approach shows something important: real software development isn't about isolated skills, it's about how different competencies work together.
 
-The three enhancements I've included here tell a story about how I approach software development:
+**The Starting Point**  
+The original project was pretty basic - a Java application with simple CRUD operations, hash map storage, and some unit tests. It worked, but it was definitely beginner-level code. Looking back at it now, I can see all the things I didn't know I didn't know.
 
-- **Software Design**: Shows I can think architecturally and build systems that are maintainable and secure
-- **Algorithms and Data Structures**: Demonstrates my ability to optimize performance and choose appropriate solutions
-- **Database Integration**: Proves I can handle data management, security, and complex querying
+**The Enhancement Journey**  
+Each improvement builds on the previous work:
 
-Each enhancement builds on the others, which mirrors how real projects work—you're rarely just doing "front-end" or "back-end" work in isolation.
+- **Software Design Enhancement**: Transformed it into a proper REST API using Spring Boot, with real architectural patterns and authentication. This shows I can design systems that other developers can work with and extend.
 
-### Looking Forward
+- **Algorithms and Data Structures Enhancement**: Replaced the inefficient searches with binary search trees and proper sorting algorithms. Performance went from decent for small datasets to scalable for real-world use. This demonstrates I understand computational complexity beyond just theory.
 
-I feel ready to contribute meaningfully to development teams, particularly in roles that combine my industrial automation background with software development skills. The program taught me not just how to code, but how to think about systems, security, and user needs.
+- **Database Enhancement**: Moved from in-memory storage to a normalized MySQL database with stored procedures and analytics capabilities. This adds real business value - turning a simple contact manager into something that could provide insights.
 
-This portfolio represents where I am today, but it's really just the starting point for what I hope will be a long and interesting career in computer science.
+**Why This Approach Makes Sense**  
+The final system can handle thousands of users instead of just one, retrieves data logarithmically instead of linearly, and implements best security practices. But more importantly, it shows I can take something basic and evolve it into something professional. That's exactly what happens in real jobs—you inherit code and need to make it better.
+
+### What's Next
+
+This portfolio demonstrates I'm ready to contribute to development teams immediately. My combination of software skills and industrial automation experience positions me well for the kind of work I want to do - building systems where software meets physical processes. And it brings me excitement to say that I've been offered a controls engineer position at my current employer.
+
+Manufacturing is increasingly about data analytics, predictive maintenance, and connected systems. So, having professionals who understand both the manufacturing side and the software side is becoming more valuable. I can speak both languages, which I think gives me an edge.
+
+The technical artifacts that follow show the details of what I've built and learned. But the real story is about growth - from someone who could write code that worked to someone who can design systems that solve real problems efficiently and securely.
 
 ---
 
@@ -99,7 +110,7 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 ---
 
-###### 📁 **Original CS-320 Project**
+## 📁 **Original CS-320 Project**
 
 [![REPO](https://img.shields.io/badge/REPO-CS--320-lightgrey?style=for-the-badge&logo=github)](https://github.com/carterdwill3/CS-320)
 
@@ -107,7 +118,7 @@ My database enhancement plan turns the in-memory contact storage into a **compre
 
 ## 🎯 Portfolio Navigation
 
-[![Code Review](https://img.shields.io/badge/🎥%20WATCH-CODE%20REVIEW-red?style=for-the-badge)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo57WgB0nXOLukuOM0bAAvT6TwRWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rUOxye)
+[![Code Review](https://img.shields.io/badge/🎥%20WATCH-CODE%20REVIEW-red?style=for-the-badge)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo5ZWgBOnXOLukuQMObAAvT6TwRMw)
 
 [![Enhancement 1](https://img.shields.io/badge/🔧%20SOFTWARE-DESIGN%20ENGINEERING-brightgreen?style=for-the-badge)](https://github.com/carterdwill3/CS-499/tree/EnhancementOne)
 
