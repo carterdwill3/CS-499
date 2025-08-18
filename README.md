@@ -57,6 +57,11 @@ The technical artifacts that follow show the details of what I've built and lear
 
 ---
 
+###### 📝 **Original CS-320 Code Review**
+[![Code Review](https://img.shields.io/badge/🎥%20WATCH-CODE%20REVIEW-red?style=for-the-badge)](https://snhu-my.sharepoint.com/:u:/g/personal/carter_williams_snhu_edu/ESMFtUZwLRtBk-mPhNo57WgB0nXOLukuOM0bAAvT6TwRWw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rY7VjI)
+
+---
+
 ## 🚀 PROJECT OVERVIEW
 
 This project started as a milestone assignment I finished last year in my **CS-320 course**. I made a simple contact management system in Java. The original solution had a Contact class with methods for validation, a ContactService class that uses a hash map for in-memory storage to maintain contacts, and test classes (ContactTest and ContactServiceTest) to make sure everything works and handles the errors. 
