@@ -47,7 +47,7 @@ Each improvement builds on the previous work:
 **Why This Approach Makes Sense**  
 The final system can handle thousands of users instead of just one, retrieves data logarithmically instead of linearly, and implements best security practices. But more importantly, it shows I can take something basic and evolve it into something professional. That's exactly what happens in real jobs—you inherit code and need to make it better.
 
-### What's Next
+### What's Next for Carter?
 
 This portfolio demonstrates I'm ready to contribute to development teams immediately. My combination of software skills and industrial automation experience positions me well for the kind of work I want to do - building systems where software meets physical processes. And it brings me excitement to say that I've been offered a controls engineer position at my current employer.
 
