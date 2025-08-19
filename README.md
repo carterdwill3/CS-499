@@ -7,7 +7,7 @@
 
 ### My Journey and What I've Learned
 
-Finishing the Computer Science program at SNHU has been quite a ride. When I transferred in three years ago, I could write basic code but honestly had no idea how all the pieces of software development actually fit together. Now, putting together this portfolio, I can see how much my thinking has changed—not just about programming, but about building systems that actually work in the real world.
+Finishing the Computer Science program at SNHU has been quite a ride. When I transferred in three years ago, I could write basic code but honestly had no idea how all the pieces of software development actually fit together. Now, putting together this portfolio, I can see how much my thinking has changed - not just about programming, but about building systems that actually work in the real world.
 
 The biggest thing I've discovered about myself is that I really enjoy the architectural side of development. I like figuring out how to break complex problems down into manageable pieces and then building something that other people can actually understand and maintain. Combined with my background in industrial automation, this gives me a perspective that I think sets me apart - I understand both the software side and how it connects to physical systems.
 
