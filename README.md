@@ -45,7 +45,7 @@ Each improvement builds on the previous work:
 - **Database Enhancement**: Moved from in-memory storage to a normalized MySQL database with stored procedures and analytics capabilities. This adds real business value - turning a simple contact manager into something that could provide insights.
 
 **Why This Approach Makes Sense**  
-The final system can handle thousands of users instead of just one, retrieves data logarithmically instead of linearly, and implements best security practices. But more importantly, it shows I can take something basic and evolve it into something professional. That's exactly what happens in real jobs—you inherit code and need to make it better.
+The final system can handle thousands of users instead of just one, retrieves data logarithmically instead of linearly, and implements best security practices. But more importantly, it shows I can take something basic and evolve it into something professional. That's exactly what happens in real jobs - you inherit code and need to make it better.
 
 ### What's Next for Carter?
 
