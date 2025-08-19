@@ -33,7 +33,7 @@ Security-focused coursework made me realize that security can't be something tha
 Instead of showing three different projects, I decided to take one project - my CS-320 contact management system - and enhance it across all three required areas. This approach shows something important: real software development isn't about isolated skills; it's about how different competencies work together.
 
 **The Starting Point**  
-The original project was pretty basic - a Java application with simple CRUD operations, hash map storage, and some unit tests. It worked, but it was definitely beginner-level code. Looking back at it now, I can see all the things I didn't know I didn't know.
+The original project was pretty basic - a Java application with simple CRUD operations, hash map storage, and some unit tests. It worked, but it was definitely beginner-level code. Looking back at it now, I can see all the things I didn't know.
 
 **The Enhancement Journey**  
 Each improvement builds on the previous work:
